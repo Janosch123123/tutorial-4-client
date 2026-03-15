@@ -99,7 +99,7 @@ export default function Home() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Examples
+          Example
         </Button>
         <Button
           type="link"
